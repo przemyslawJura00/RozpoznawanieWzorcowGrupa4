@@ -1,0 +1,1 @@
+# RozpoznawanieWzorcowGrupa4
