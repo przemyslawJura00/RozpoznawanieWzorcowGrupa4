@@ -7,3 +7,6 @@ Zbiór danych o otwartym kodzie źródłowym z globalnej inicjatywy udostępnian
 Metoda One-Class Support Vector Machines
 Metoda jest przeznaczona przede wszystkim do wykrywania wartości odstających, anomalii lub nowości. Celem stosowania jednoklasowej SVM jest identyfikacja instancji, które znacznie odbiegają od normy. W przeciwieństwie do innych tradycyjnych modeli uczenia maszynowego, jednoklasowa SVM nie jest używana do wykonywania zadań klasyfikacji binarnej lub wieloklasowej, ale do wykrywania wartości odstających lub nowości w zbiorze danych. Poniżej omówiono niektóre z kluczowych zasad działania jednoklasowego SVM.
 Źródło: Understanding One-Class Support Vector Machines https://www.geeksforgeeks.org/understanding-one-class-support-vector-machines/ 24 Maj 2024
+
+Podsumowanie sprawozdania
+Niedostateczna liczba przypadków, liczne braki danych, nierównomierność ich rozkładu oraz brak reprezentatywności ciężkich przypadków sprawiły, że analiza oparta na one-class SVM nie była miarodajna. Wyniki uzyskane przez model były w dużej mierze fałszywie pozytywne i nie miały praktycznego znaczenia. Aby przeprowadzić skuteczniejszą analizę, konieczne byłoby zgromadzenie większej, bardziej zrównoważonej i kompletnej próby danych, uwzględniającej większą liczbę przypadków klinicznych i ciężkich przypadków COVID-19.
